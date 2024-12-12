@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75419580201",
+    "project_id": "inara-4a66f",
+    "storage_bucket": "inara-4a66f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75419580201:android:1cb793892ebe137dc0a938",
+        "android_client_info": {
+          "package_name": "com.erp.ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZh5HUlYG6M9mPhz4dXlPfGeSWZdLk0fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75419580201:android:9884b8fecb8796e0c0a938",
+        "android_client_info": {
+          "package_name": "com.example.poultry_admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZh5HUlYG6M9mPhz4dXlPfGeSWZdLk0fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
